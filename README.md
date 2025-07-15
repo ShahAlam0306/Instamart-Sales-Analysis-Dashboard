@@ -40,13 +40,5 @@ The dashboard provides business intelligence insights that can help:
 - Improve product strategies
 - Optimize operations by city
 - Understand customer order patterns
-
-## 🧑‍💻 Author
-
-**Rayeen Shahalam**  
-[LinkedIn](https://www.linkedin.com/in/rayeen-shahalam-104435319)
-
----
-
-> Feel free to fork this repo, give a ⭐, or suggest improvements!
+ Feel free to fork this repo, give a ⭐, or suggest improvements!
 
